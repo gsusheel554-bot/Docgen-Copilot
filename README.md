@@ -93,3 +93,8 @@ While the core business logic and integration are original, this project leverag
 - **Charts:** Visualizations are implemented using the **Recharts** open-source library.
 - **Markdown Handling:** The regex-based markdown and table parser in the chat interface is adapted from common lightweight implementation patterns for converting markdown-style strings to React components.
 - **Modules:** Served via [esm.sh](https://esm.sh/) for modern browser-native module loading.
+
+Attaching Sceenshorts:
+PFA screenshorts document for reference
+[DocGen Copilot Screenshorts.docx](https://github.com/user-attachments/files/24422973/DocGen.Copilot.Screenshorts.docx)
+
